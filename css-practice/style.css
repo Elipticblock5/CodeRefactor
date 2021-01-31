@@ -1,0 +1,27 @@
+h1 {text-align:center;}
+
+#red {color:red;}
+#blue {color:blue;}
+#green {color:green;}
+
+#big {font-size: large;}
+#small {font-size: smaller;}
+
+#center {text-align:center;}
+
+#bold {
+    font-weight: 900;
+  }
+
+#font-size {font-size:56px;}
+
+#combine {font-size:x-large ;
+        color:orange;
+    }
+
+.styledFont {color:green}
+
+#styledImage {
+    border: 5px solid#FF8C00;}
+
+
